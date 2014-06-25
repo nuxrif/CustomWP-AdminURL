@@ -90,7 +90,6 @@ if (!class_exists('CustomWPAdminURL')) {
 			
 			<input id="custom_wpadmin_slug" name="custom_wpadmin_slug" type="text" class="regular-text code" value="<?php echo get_option('custom_wpadmin_slug'); ?>">
 			<p class="howto">Allowed characters are a-z, 0-9, - and _</p>
-			<a href="http://mollik.me"><p>শরীফ আহম্মেদ <p></a>
 			<?php
 		}
 
